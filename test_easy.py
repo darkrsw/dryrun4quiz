@@ -7,5 +7,5 @@ def test_add():
 def test_multiply():
   assert cal.multiply(8, 8) == 64
 
-def test_abs_diff(():
+def test_abs_diff():
   assert cal.abs_diff(8, 4) == 4
