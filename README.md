@@ -1,4 +1,4 @@
-# Final Exam: Locate and Fix this code!
+# Quiz: Locate and Fix this code!
 
 Your submission must satisfy the following requirements:
 
